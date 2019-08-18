@@ -19,7 +19,7 @@ import static android.content.ContentValues.TAG;
 
 public class WeatherAsyncTask extends AsyncTask<String, Integer, String[]> {
     public AsyncCallback delegate = null;
-    private String key = "cd80f2d1b6383917cd976472ab860530";
+    private String key = "";
 
     @Override
     protected void onPreExecute() {
