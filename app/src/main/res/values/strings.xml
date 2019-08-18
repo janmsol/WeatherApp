@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <string name="search_hint">Search location</string>
+    <string name="kreditering">Værvarsel fra OpenWeatherMap.org</string>
+    <string name="waiting">Waiting for Database</string>
+    <string name="waitingdot">Waiting...</string>
+    <string name="wind_direction">Wind Direction:</string>
+    <string name="wind_speed">Wind speed:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="back">Back</string>
+    <string name="time">Time:</string>
+    <string name="date">Date:</string>
+    <string name="forecast">Forecast</string>
+    <string name="city">City:</string>
+    <string name="could_not_find_location">Could not find Location</string>
+    <string name="try_adding_countrycode">Try adding a comma and country code \n to the end of the request</string>
+    <string name="example_bergen_no">Example: Bergen,NO</string>
+    <string name="clear_n_history">Clear \n History</string>
+    <string name="check_your_spelling">Check Your Spelling</string>
+
+</resources>
